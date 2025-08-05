@@ -5,13 +5,14 @@ body {
 
 .logo {
   font-size: 2em;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 article {
-  background-color: white;
+  background-color: #f4f4f4;
   padding: 20px;
-  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-family: Arial, sans-serif;
 }
 
 aside {
